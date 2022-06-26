@@ -8,6 +8,7 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         Debug.Log("test1");
+        Debug.Log("test2");
     }
 
     // Update is called once per frame
